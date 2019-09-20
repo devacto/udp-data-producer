@@ -1,9 +1,7 @@
 ## UDP Data Producer
 Produces data over UDP. These are comma-separated data.
 
-[![asciicast](https://asciinema.org/a/cUqeKwZubGwR2pKc2PXI1lo8I.png)](https://asciinema.org/a/cUqeKwZubGwR2pKc2PXI1lo8I)
-
-![example gif 2](https://s3.eu-central-1.amazonaws.com/sickill/github/asciicast2gif/demo-2.gif)
+![asciicast](https://raw.githubusercontent.com/devacto/udp-data-producer/master/demo.gif)
 
 ### Build and Package
 ```
