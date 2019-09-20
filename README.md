@@ -15,5 +15,5 @@ java -jar target/udpclient-1.0-SNAPSHOT-jar-with-dependencies.jar configuration/
 
 ### Producing the gif
 ```
-docker run --rm -v $PWD:/data asciinema/asciicast2gif -S 1 -w 206 -h 35 https://asciinema.org/a/cUqeKwZubGwR2pKc2PXI1lo8I.json demo.gif
+docker run --rm -v $PWD:/data asciinema/asciicast2gif -S 1 -w 180 -h 20 https://asciinema.org/a/cUqeKwZubGwR2pKc2PXI1lo8I.json demo.gif
 ```
